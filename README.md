@@ -1,2 +1,2 @@
 # Mario-Concept-
-called "mario rush" but idc what you call it. I still need to make the exe file but idk how to link sfml in windows lol
+im still trying to link it for windows to make an exe file. I can't figure out how though...
